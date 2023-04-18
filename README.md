@@ -1,6 +1,6 @@
 # Odev
 
-# djnago_currency_convert
+# djnago_transfer_money
 
 ## Install all requirements:
 
